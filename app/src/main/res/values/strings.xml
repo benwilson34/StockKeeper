@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">StockKeeper</string>
+
+    <string name="clear_file">Clear file</string>
+
+    <string name="dialog_title">Add a new stock symbol</string>
+    <string name="dialog_confirm">Add</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_hint">type symbol…</string>
+    <string name="dialog_toast">Done fetching data for</string>
+
+    <string name="empty_list_msg">You are not tracking any stock symbols.\nClick the + button to add one.</string>
+
+    <string name="detail_title">Viewing details for </string>
+    <string name="detail_companyName">Company name: </string>
+    <string name="detail_currentPrice">Current price: </string>
+
+</resources>

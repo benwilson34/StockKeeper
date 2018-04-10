@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StockKeeper</string>
+
+    <string name="clear_file">Archivo vacio</string>
+
+    <string name="dialog_title">Agregar un nuevo símbolo de stock</string>
+    <string name="dialog_confirm">Agregar</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="dialog_hint">tipo símbolo…</string>
+    <string name="dialog_toast">Hecho buscando datos para</string>
+
+    <string name="empty_list_msg">No está rastreando ningún símbolo de stock.\nHaga clic en el botón + para agregar uno.</string>
+
+    <string name="detail_title">Ver detalles de </string>
+    <string name="detail_companyName">Nombre de empresa: </string>
+    <string name="detail_currentPrice">Precio actual: </string>
+
+</resources>
